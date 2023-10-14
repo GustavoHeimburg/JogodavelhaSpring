@@ -14,6 +14,11 @@
 		border-radius: 6px;
 		font-size: 30px;
 		text-align: center;
+		cursor: pointer;
+		transition: background-color 0.3s;
+	}
+	#b1:hover, #b2:hover, #b3:hover, #b4:hover, #b5:hover, #b6:hover, #b7:hover, #b8:hover, #b9:hover {
+		background-color: lightblue;
 	}
 
 	#but {
